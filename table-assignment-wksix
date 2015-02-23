@@ -1,0 +1,58 @@
+<!doctype html>
+<table>
+<thead>
+<tr>
+<th> </th>
+<th>Smart Starter</th>
+<th>Smart Medium</th>
+<th>Smart Business</th>
+<th>Smart Deluxe</th>
+</tr>
+</thead>
+<tr>
+<th>Storage Space</th>
+<td>512 GB</td>
+<td>1 GB</td>
+<td>2 GB</td>
+<td>4 GB</td>
+</tr>
+<tr>
+<th>Bandwidth</th>
+<td>50 GB</td>
+<td>100 GB</td>
+<td>150 GB</td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<th>My SQL Databases</th>
+<td colspan="4">Unlimited
+</tr>
+<tr>
+<th>Setup</th>
+<td>$19.90</td>
+<td>$12.90</td>
+<td colspan="2">free</td>
+</tr>
+<tr>
+<th>PHP 5</th>
+<td><img src="https://www.flickr.com/photos/129719942@N02/"></td>
+<td>check </td>
+<td>check </td>
+<td>check </td>
+</tr>
+<tr>
+<th>Ruby on Rails</th>
+<td>check </td>
+<td>check </td>
+<td>check </td>
+<td>check </td>
+</tr>
+<tfoot>
+<tr>
+<th>Price per month</th>
+<td>$2.90</td>
+<td>%5.90</td>
+<td>%9.90</td>
+<td>$14.90</td>
+</tr>
+</tfoot>
