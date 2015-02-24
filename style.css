@@ -48,10 +48,6 @@
         border-radius: 3px;
     }
 
-html {
-background-image: linear-gradient(to top, #FFFFFF 0%, #F2F2F2 100%); url('http://p1.pichost.me/i/60/1837803.jpg'); /* W3C */
-}
-
 #features{
   background-image: none;
   background-color: rgba(43, 43, 57, 1);
