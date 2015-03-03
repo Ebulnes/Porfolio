@@ -99,6 +99,8 @@ footer{
     
 <a href="#" class="myButton">dark grey</a>
 
+<a href="#" class="myButton">dark grey</a>
+
 .myButton {
 	-moz-box-shadow:inset 1px 1px 3px 0px #bdbdbd;
 	-webkit-box-shadow:inset 1px 1px 3px 0px #bdbdbd;
@@ -139,3 +141,4 @@ footer{
 	position:relative;
 	top:1px;
 }
+
