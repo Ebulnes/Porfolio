@@ -69,14 +69,6 @@ p:hover{
     margin-top: -10px;
 }
 
-    button{
-        color: #FFF;
-        background-color: #1FCCB2;
-        border: none;
-        border-radius: 3px;
-        padding: 5px;
-        margin-top: 40px;
-    }
 article {
     color: white;
     border: 1px;
@@ -86,6 +78,15 @@ article {
 .menu-selected{
   background-color: #00bcd4;
 }
+
+button{
+        color: #FFF;
+        background-color: #1FCCB2;
+        border: none;
+        border-radius: 3px;
+        padding: 5px;
+        margin-top: 40px;
+    }
 
 footer{
         background-color: #000;
