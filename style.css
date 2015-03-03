@@ -87,6 +87,15 @@ article {
   background-color: #00bcd4;
 }
 
+footer{
+        background-color: #000;
+        height: 150px;
+        text-align: center;
+        background-color: #727272;
+        padding: 50px;
+        box-sizing: border-box;
+    }
+    
 .button {
    border-top: 1px solid #f7d31e;
    background: #eb612f;
