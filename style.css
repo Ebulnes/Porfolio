@@ -7,7 +7,7 @@ nav a.mark {
 }
 
 nav a.mark:hover {
-	color: black;
+	color: ;
 	text-shadow: 5px 5px #black;
 }
 
@@ -33,7 +33,7 @@ nav a.mark:hover {
     }
     
       nav a:hover{
-        background-color: black; 
+        background-color: transparent; 
         text color: black;
       }
       
