@@ -91,7 +91,7 @@ p {
 }
 
 p:hover{
-    transform: rotate (7deg);
+    transform: rotate (-3deg);
     margin-top: 10px;
 }
 
