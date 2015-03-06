@@ -37,28 +37,6 @@ nav a.mark:hover {
         text color: black;
       }
       
-  div a. header{
-background-color: rgb(245, 245, 245);
-border-bottom-color: rgb(229, 229, 229);
-border-bottom-style: solid;
-border-bottom-width: 1px;
-box-sizing: border-box;
-color: rgb(51, 51, 51);
-display: block;
-font-family: Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
-font-size: 13px;
-font-style: normal;
-font-variant: normal;
-font-weight: normal;
-height: 49px;
-line-height: 18.2000007629395px;
-min-width: 1000px;
-padding-bottom: 10px;
-padding-top: 10px;
-width: 1379px;
-word-wrap: break-word;
-  }
-    
     header {
         text-align: center;
         background-color: none; 
