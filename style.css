@@ -1,14 +1,14 @@
 
 nav a.mark {
-	color: transparent;
+	color: none;
 	text-shadow: 1px 1px #black;
 
 
 }
 
 nav a.mark:hover {
-	color: transparent;
-	text-shadow: 1px 1px #black;
+	color: none;
+	text-shadow: 5px 5px #black;
 }
 
     body{
