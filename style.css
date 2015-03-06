@@ -1,13 +1,13 @@
 
 nav a.mark {
-	color: #black;
+	color: black;
 	text-shadow: 1px 1px #black;
 
 
 }
 
 nav a.mark:hover {
-	color: #black;
+	color: black;
 	text-shadow: 5px 5px #black;
 }
 
