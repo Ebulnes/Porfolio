@@ -1,9 +1,9 @@
 section: a{
 	background-color: black;
 	text-align: center;
-        background-image:none;
-        height: 380px;
-        background-size: none;
+        background-image:transparent;
+        height: 200px;
+        background-size: cover;
         border-radius: 3px;
 	
 }
