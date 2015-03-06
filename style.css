@@ -18,10 +18,10 @@ nav a.mark:hover {
     }
     
     nav a {
-        text-decoration: none;
+        text-decoration: bold;
         color: black;
         font-family: 'Lato', sans-serif;
-        font-size: 25px;
+        font-size: 22px;
         background-color: #c1c1c1;
         border-radius: 2px;
         margin: 5px;
