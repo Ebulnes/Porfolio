@@ -38,7 +38,7 @@ nav a.mark:hover {
     
     header {
         text-align: center;
-        background-color: black; 
+        background-color: none; 
     }
       
     header img{
@@ -46,7 +46,7 @@ nav a.mark:hover {
     }  
     
     header h1{
-    	color:white;
+    	color:black;
     	font-family: 'Poiret One', sans-serif;
         font-size: 85px;
     }
