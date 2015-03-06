@@ -1,4 +1,11 @@
-
+section: a{
+	text-align: center;
+        background-image:none;
+        height: 380px;
+        background-size: none;
+        border-radius: 3px;
+	
+}
     body{
       color: #212121;
       font-family: sans-serif;
