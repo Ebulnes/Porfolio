@@ -1,6 +1,6 @@
 
 nav a.mark {
-	color: black;
+	color: transparent;
 	text-shadow: 1px 1px #black;
 
 
@@ -8,7 +8,7 @@ nav a.mark {
 
 nav a.mark:hover {
 	color: transparent;
-	text-shadow: 5px 5px #black;
+	text-shadow: 1px 1px #black;
 }
 
     body{
