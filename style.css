@@ -7,7 +7,7 @@ nav a.mark {
 }
 
 nav a.mark:hover {
-	color: ;
+	color: transparent;
 	text-shadow: 5px 5px #black;
 }
 
