@@ -1,14 +1,14 @@
 
 nav a.mark {
 	color: none;
-	text-shadow: 1px 1px #black;
+	text-shadow: 1px 1px #FFB001;
 
 
 }
 
 nav a.mark:hover {
 	color: none;
-	text-shadow: 5px 5px #black;
+	text-shadow: 5px 5px #FFB001;
 }
 
     body{
