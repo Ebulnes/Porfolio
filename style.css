@@ -32,7 +32,8 @@ nav a.mark:hover {
     }
     
       nav a:hover{
-        background-color: transparent;  
+        background-color: transparent; 
+        text color: black;
       }
     
     header {
