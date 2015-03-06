@@ -110,6 +110,10 @@ button{
         padding: 5px;
         margin-top: 40px;
     }
+    
+footer a:hover {
+	transition: .3s all;
+	color: #000;    
 
 footer{
         background-color: #000;
