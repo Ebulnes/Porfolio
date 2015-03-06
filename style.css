@@ -1,12 +1,4 @@
-section: a{
-	background-color: black;
-	text-align: center;
-        background-image:transparent;
-        height: 200px;
-        background-size: cover;
-        border-radius: 3px;
-	
-}
+
     body{
       color: #212121;
       font-family: sans-serif;
