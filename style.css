@@ -1,9 +1,14 @@
-div class="header"{
-     padding-top: 10px;
-     padding-bottom: 10px;
-     min-width: 1000px;
-     background-color: #f5f5f5;
-     border-bottom: 1px solid #e5e5e5;
+
+nav a.mark {
+	color: #000;
+	text-shadow: 1px 1px #FFB001;
+
+
+}
+
+nav a.mark:hover {
+	color: #000;
+	text-shadow: 5px 5px #FFB001;
 }
 
     body{
