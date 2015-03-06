@@ -70,8 +70,7 @@ nav a.mark:hover {
         height: 380px;
         background-size: none;
         border-radius: 3px;
-        transition: 1s all;
-    }
+   }
 
 #features{
   background-image: none;
@@ -92,7 +91,7 @@ p {
 }
 
 p:hover{
-    transform: rotate (-7deg);
+    transform: rotate (7deg);
     margin-top: 10px;
 }
 
