@@ -20,6 +20,7 @@ nav a.mark:hover {
     nav a {
         text-decoration: none;
         color: #F5F5F5;
+        font-size: 15px;
         background-color: #9E9E9E;
         border-radius: 2px;
         margin: 5px;
