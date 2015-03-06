@@ -20,7 +20,7 @@ nav a.mark:hover {
     nav a {
         text-decoration: none;
         color: bold black;
-        font-family: bold 'Lato', sans-serif;
+        font-family: 'Lato', bold sans-serif;
         font-size: 22px;
         background-color: #c1c1c1;
         border-radius: 2px;
