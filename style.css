@@ -50,6 +50,7 @@ nav a.mark:hover {
     	color:black;
     	font-family: 'Poiret One', sans-serif;
         font-size: 85px;
+        position: center;
     }
     
     h2{
