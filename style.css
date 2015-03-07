@@ -124,7 +124,8 @@ footer{
         padding: 50px;
         box-sizing: border-box;
     }
-    
+
+<a href="#" class="css_btn_class">SEE MY WORK</a>    
 <style type="text/css">
 .css_btn_class {
 	font-size:17px;
