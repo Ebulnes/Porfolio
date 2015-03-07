@@ -38,6 +38,9 @@ nav a.mark:hover {
       }
       
     header {
+        color:black;
+    	font-family: 'Poiret One', sans-serif;
+        font-size: 85px;
         text-align: center;
         background-color: none; 
     }
