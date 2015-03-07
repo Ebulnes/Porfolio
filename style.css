@@ -91,7 +91,6 @@ p {
 }
 
 p:hover{
-    transform: rotate (-10deg);
     margin-top: 10px;
     padding: 15px;
     transition: 1s all;
@@ -125,7 +124,6 @@ footer{
         box-sizing: border-box;
     }
 
-<a href="#" class="css_btn_class">SEE MY WORK</a>    
 <style type="text/css">
 .css_btn_class {
 	font-size:17px;
