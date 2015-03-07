@@ -161,3 +161,20 @@ footer{
 /*--------HOME PAGE STYLE CLOSE--------*/
 
 /*--------ABOUT AND CONTACT PAGE--------*/
+
+#profiletop {
+   font-family: 'Lato', sans-serif;
+   text-align: center;
+   width: 80%;
+   margin: 0 auto;
+   background-color: #000;
+   font-size: 28px;
+   padding-bottom: 30px;
+   color: #000;
+   border-radius: 5px;
+   margin-bottom: 10px;
+   -webkit-transition: all 1s; /* For Safari 3.1 to 6.0 */
+   transition : all 1s;
+}
+
+
