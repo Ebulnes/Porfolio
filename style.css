@@ -43,7 +43,7 @@ nav a.mark:hover {
     }
       
     header img{
-        border-radius: 30%;
+        border-radius: 20%;
     }  
     
     header h1{
@@ -69,6 +69,8 @@ nav a.mark:hover {
        text-align:center;
        width:100%;
        position:center;
+       vertical-align=center;
+       display: table-cell;
   }
   
   iframe{
@@ -76,7 +78,7 @@ nav a.mark:hover {
         height: 480px;
         vertical-align: middle;
         display: table-cell;
-          }
+  }
   
     section{
         text-align: center;
