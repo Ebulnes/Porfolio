@@ -90,6 +90,7 @@ nav a.mark:hover {
   background-color:none;
   height: 250px;
   border-radius: 3px;
+  display: inline-block;
 }
 
 p {
