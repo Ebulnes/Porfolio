@@ -69,21 +69,17 @@ nav a.mark:hover {
   div {
        text-align:center;
        width:100%;
-       position:center;
-       vertical-align=center;
-       display: table-cell;
   }
   
   iframe{
         width: 660px;
         height: 480px;
-        vertical-align: middle;
-        display: table-cell;
   }
   
     section{
         text-align: center;
         background-image:none;
+        vertical-align: middle;
         height: 380px;
         background-size: none;
         border-radius: 3px;
