@@ -73,6 +73,7 @@ nav a.mark:hover {
   iframe{
         width: 660px;
         height: 480px;
+        vertical-align: middle;
   }
   
     section{
