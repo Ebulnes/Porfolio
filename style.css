@@ -65,6 +65,15 @@ nav a.mark:hover {
       font-size: 50px;
     }
     
+  div {
+       text-align:center;
+       width:100%;
+  }
+  
+  iframe{
+        width: 200px;
+  }
+  
     section{
         text-align: center;
         background-image:none;
