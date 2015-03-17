@@ -2,8 +2,6 @@
 nav a.mark {
 	color: none;
 	text-shadow: 1px 1px #FFB001;
-
-
 }
 
 nav a.mark:hover {
@@ -32,7 +30,7 @@ nav a.mark:hover {
         
     }
     
-      nav a:hover{
+   nav a:hover{
         background-color: transparent; 
         text color: black;
       }
@@ -76,7 +74,7 @@ nav a.mark:hover {
         height: 480px;
   }
   
-   section{
+  section{
         text-align: center;
         background-image:none;
         vertical-align: middle;
@@ -99,10 +97,8 @@ p {
  }
 
 p:hover{
-    margin-top: 10px;
-    padding: 15px;
+    margin-top: 20px;
     transition: none; 
-    display:block;
 }
 
 
