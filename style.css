@@ -87,7 +87,7 @@ nav a.mark:hover {
 
 #features{
   background-image: none;
-  background-color:none;
+  background-color:gray;
   height: 250px;
   border-radius: 3px;
   display: inline-block;
@@ -95,7 +95,7 @@ nav a.mark:hover {
 
 p {
   color: #DDC5B2;
-  background-color: black;
+  background-color: gray;
   font-family: 'Lato', sans-serif;
   margin: 15;
   padding: 15px;
