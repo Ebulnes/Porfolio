@@ -98,9 +98,7 @@ p {
   background-color: none;
   font-family: 'Lato', sans-serif;
   font-size: 26px;
-  height:200px;
-  width:300px;
-}
+ }
 
 p:hover{
     margin-top: 10px;
