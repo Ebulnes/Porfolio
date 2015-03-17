@@ -113,7 +113,7 @@ p:hover{
 article {
     color: white;
     border: 1px;
-    background-color: #9E9E9E;
+    background-color: none;
 }
 
 .menu-selected{
