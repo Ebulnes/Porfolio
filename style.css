@@ -94,14 +94,9 @@ nav a.mark:hover {
 }
 
 p {
-  color: #DDC5B2;
-  background-color: gray;
+  color: white;
+  background-color: black;
   font-family: 'Lato', sans-serif;
-  margin: 15;
-  padding: 15px;
-  width: 200px;
-  display: inline-block;
-  transition: 1s all;
 }
 
 p:hover{
