@@ -66,6 +66,15 @@ nav a.mark:hover {
       font-size: 50px;
     }
     
+  table{
+        text-align: center;
+        background-image:none;
+        vertical-align: middle;
+        height: 100px;
+        background-size: none;
+        border-radius: 3px;
+  }
+    
   div {
   	text-align: center;
         background-image:none;
