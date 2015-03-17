@@ -107,12 +107,6 @@ p:hover{
     display:block;
 }
 
-article {
-    color: white;
-    font-family: 'Lato', sans-serif;
-    border: 1px;
-    background-color: none;
-}
 
 .menu-selected{
   background-color: #00bcd4;
