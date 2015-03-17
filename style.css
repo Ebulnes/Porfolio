@@ -89,8 +89,6 @@ nav a.mark:hover {
   background-image: none;
   background-color:gray;
   height: 250px;
-  border-radius: 3px;
-  display: block;
 }
 
 p {
