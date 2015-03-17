@@ -94,8 +94,8 @@ nav a.mark:hover {
 }
 
 p {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: none;
   font-family: 'Lato', sans-serif;
 }
 
