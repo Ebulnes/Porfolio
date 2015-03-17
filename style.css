@@ -96,7 +96,7 @@ nav a.mark:hover {
 p {
   color: #DDC5B2;
   background-color: black;
-  font-family: arial, Haettenschweiler, “Arial Narrow bold”, sans-serif; 
+  font-family: 'Lato', sans-serif;
   margin: 15;
   padding: 15px;
   width: 200px;
@@ -112,6 +112,7 @@ p:hover{
 
 article {
     color: white;
+    font-family: 'Lato', sans-serif;
     border: 1px;
     background-color: none;
 }
