@@ -68,11 +68,6 @@ nav a.mark:hover {
     
   div {
   	text-align: center;
-        background-image:none;
-        vertical-align: middle;
-        height: 100px;
-        background-size: none;
-        border-radius: 3px;
         width:100%;
   }
   
